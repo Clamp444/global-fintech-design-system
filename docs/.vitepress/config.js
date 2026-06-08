@@ -8,14 +8,25 @@ export default {
   themeConfig: {
     siteTitle: 'Design System',
 
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Brand', link: '/brand/strategy' },
-      { text: 'Tokens', link: '/tokens/design-tokens' },
-      { text: 'Components', link: '/components/overview' },
-      { text: 'UX Rules', link: '/ux-rules/principles' },
-      { text: 'Governance', link: '/governance/overview' }
-    ],
+nav: [
+
+  { text: 'Home', link: '/' },
+
+  { text: 'Brand', link: '/brand/strategy' },
+
+  { text: 'Tokens', link: '/tokens/design-tokens' },
+
+  { text: 'Components', link: '/components/overview' },
+
+  { text: 'UX Rules', link: '/ux-rules/principles' },
+
+  { text: 'Skills', link: '/skills/overview' },
+
+  { text: 'Research', link: '/research/overview' },
+
+  { text: 'Governance', link: '/governance/overview' }
+
+],
 
     sidebar: [
       {
@@ -53,19 +64,20 @@ export default {
         ]
       }
     ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/clamp444' }
-    ],
-
-    footer: {
-      message: 'Global Fintech Design System',
-      copyright: 'Copyright © 2026'
-    }
-  }
+    {
+  text: 'AI / UX Research',
+  collapsed: false,
+  items: [
+    { text: 'Research Overview', link: '/research/overview' },
+    { text: 'AI Design Research', link: '/research/ai-design-research' },
+    { text: 'Prompt UX', link: '/research/prompt-ux' },
+    { text: 'Agent Workflow', link: '/research/agent-workflow' },
+    { text: 'Competitor Analysis', link: '/research/competitor-analysis' },
+    { text: 'AI Product Patterns', link: '/research/ai-product-patterns' },
+    { text: 'Research Templates', link: '/research/research-templates' }
+  ]
 }
-{ text: 'Skills', link: '/skills/overview' }
-{
+    {
   text: 'Skills',
   collapsed: false,
   items: [
@@ -78,3 +90,16 @@ export default {
     { text: 'AI Product Evaluation', link: '/skills/ai-product-evaluation' }
   ]
 }
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/clamp444' }
+    ],
+
+    footer: {
+      message: 'Global Fintech Design System',
+      copyright: 'Copyright © 2026'
+    }
+  }
+}
+
+
