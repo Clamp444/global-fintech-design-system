@@ -1,4 +1,3 @@
-base: '/global-fintech-design-system/',
 export default {
   title: 'Global Fintech Design System',
   description: 'A scalable design system for fintech products across global markets.',
@@ -56,7 +55,7 @@ export default {
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/你的GitHub用户名' }
+      { icon: 'github', link: 'https://github.com/clamp444' }
     ],
 
     footer: {
