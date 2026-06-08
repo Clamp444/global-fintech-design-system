@@ -64,3 +64,4 @@ export default {
     }
   }
 }
+{ text: 'Skills', link: '/skills/overview' }
