@@ -3,31 +3,33 @@ layout: home
 
 hero:
   name: Global Fintech Design System
-  text: A scalable design framework for digital finance products.
-  tagline: Brand, product, campaign, localization, and governance guidelines for global fintech teams.
+  text: Fintech UX · Brand · Product System
+  tagline: A scalable design framework for global digital finance products.
   actions:
     - theme: brand
-      text: Get Started
+      text: Start with Brand Strategy
       link: /brand/strategy
     - theme: alt
-      text: View Tokens
+      text: View Design Tokens
       link: /tokens/design-tokens
 
 features:
-  - title: Brand Strategy
-    details: Define positioning, personality, visual principles, and market adaptation rules.
-  - title: Design Tokens
-    details: Standardize color, typography, spacing, radius, shadow, and motion decisions.
+  - title: Brand
+    details: Positioning, personality, visual identity, and global-local balance.
+  - title: Tokens
+    details: Color, typography, spacing, radius, shadow, and motion foundations.
   - title: Components
-    details: Document reusable UI patterns for scalable product experiences.
+    details: Reusable UI patterns for product, campaign, and service touchpoints.
   - title: UX Rules
-    details: Create clear, trustworthy, and accessible financial product flows.
-  - title: Campaign System
-    details: Build consistent marketing assets across app, social, WeChat, and landing pages.
-  - title: Localization
-    details: Adapt language, currency, culture, and regulatory content across markets.
+    details: Interaction principles for onboarding, payment, KYC, and feedback.
+  - title: Campaign
+    details: Templates for app banners, WeChat covers, social cards, and landing pages.
+  - title: Governance
+    details: Rules for updating, reviewing, versioning, and maintaining the system.
 ---
 
-# Overview
+## Overview
 
-This design system provides a structured framework for creating consistent, trustworthy, and localized fintech experiences across multiple markets.
+This design system helps fintech teams create consistent, trustworthy, and localized product experiences across multiple markets.
+
+It connects brand strategy, product UI, design tokens, campaign assets, localization rules, accessibility, and governance into one reusable documentation system.
