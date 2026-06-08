@@ -78,6 +78,14 @@ This documentation connects brand strategy, product UI, design tokens, campaign 
     </div>
   </a>
 
+  <a class="home-card" href="/global-fintech-design-system/research/overview">
+  <span class="home-label">10</span>
+  <div>
+    <h2>AI / UX Research</h2>
+    <p>Collect research on AI product design, Prompt UX, Agent workflows, competitor analysis, and emerging UX patterns.</p>
+  </div>
+</a>
+
 </div>
 
 <style>
