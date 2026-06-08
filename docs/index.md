@@ -1,33 +1,33 @@
-# Global Fintech Design System
+---
+layout: home
 
-A scalable brand, product, and campaign design system for global fintech platforms.
+hero:
+  name: Global Fintech Design System
+  text: A scalable design framework for digital finance products.
+  tagline: Brand, product, campaign, localization, and governance guidelines for global fintech teams.
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /brand/strategy
+    - theme: alt
+      text: View Tokens
+      link: /tokens/design-tokens
 
-## What this system covers
+features:
+  - title: Brand Strategy
+    details: Define positioning, personality, visual principles, and market adaptation rules.
+  - title: Design Tokens
+    details: Standardize color, typography, spacing, radius, shadow, and motion decisions.
+  - title: Components
+    details: Document reusable UI patterns for scalable product experiences.
+  - title: UX Rules
+    details: Create clear, trustworthy, and accessible financial product flows.
+  - title: Campaign System
+    details: Build consistent marketing assets across app, social, WeChat, and landing pages.
+  - title: Localization
+    details: Adapt language, currency, culture, and regulatory content across markets.
+---
 
-- Brand Strategy
-- Visual Identity
-- Design Tokens
-- Components
-- UX Rules
-- Campaign System
-- Localization
-- Accessibility
-- Governance
+# Overview
 
-## Design Direction
-
-This system is designed for fintech products operating across multiple markets. It helps teams maintain visual consistency, improve product experience, and scale brand assets efficiently.
-
-## Core Principles
-
-### Consistency
-Create a unified experience across brand, product, and campaign touchpoints.
-
-### Scalability
-Support multiple countries, languages, currencies, and user behaviors.
-
-### Trust
-Use clear hierarchy, accessible visual language, and transparent financial information.
-
-### Efficiency
-Enable designers, product teams, and developers to reuse patterns and reduce duplicated work.
+This design system provides a structured framework for creating consistent, trustworthy, and localized fintech experiences across multiple markets.
