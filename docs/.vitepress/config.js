@@ -2,31 +2,21 @@ export default {
   title: 'Global Fintech Design System',
   description: 'A scalable design system for fintech products across global markets.',
 
-  // 如果你的仓库名不是 global-fintech-design-system，请改这里
   base: '/global-fintech-design-system/',
 
   themeConfig: {
     siteTitle: 'Design System',
 
-nav: [
-
-  { text: 'Home', link: '/' },
-
-  { text: 'Brand', link: '/brand/strategy' },
-
-  { text: 'Tokens', link: '/tokens/design-tokens' },
-
-  { text: 'Components', link: '/components/overview' },
-
-  { text: 'UX Rules', link: '/ux-rules/principles' },
-
-  { text: 'Skills', link: '/skills/overview' },
-
-  { text: 'Research', link: '/research/overview' },
-
-  { text: 'Governance', link: '/governance/overview' }
-
-],
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Brand', link: '/brand/strategy' },
+      { text: 'Tokens', link: '/tokens/design-tokens' },
+      { text: 'Components', link: '/components/overview' },
+      { text: 'UX Rules', link: '/ux-rules/principles' },
+      { text: 'Skills', link: '/skills/overview' },
+      { text: 'Case Studies', link: '/case-studies/palmpay' },
+      { text: 'Governance', link: '/governance/overview' }
+    ],
 
     sidebar: [
       {
@@ -39,7 +29,7 @@ nav: [
         ]
       },
       {
-        text: 'System',
+        text: 'Design System',
         collapsed: false,
         items: [
           { text: 'Design Tokens', link: '/tokens/design-tokens' },
@@ -48,12 +38,32 @@ nav: [
         ]
       },
       {
-        text: 'Experience',
+        text: 'Experience System',
         collapsed: false,
         items: [
           { text: 'Campaign System', link: '/campaign/campaign-system' },
           { text: 'Localization', link: '/localization/overview' },
           { text: 'Accessibility', link: '/accessibility/overview' }
+        ]
+      },
+      {
+        text: 'Skills Library',
+        collapsed: false,
+        items: [
+          { text: 'Skills Overview', link: '/skills/overview' },
+          { text: 'UX Review', link: '/skills/ux-review' },
+          { text: 'Brand Audit', link: '/skills/brand-audit' },
+          { text: 'Campaign Brief', link: '/skills/campaign-brief' },
+          { text: 'PalmPay Design System', link: '/skills/palmpay-system-design' }
+        ]
+      },
+      {
+        text: 'Case Studies',
+        collapsed: false,
+        items: [
+          { text: 'PalmPay Brand System', link: '/case-studies/palmpay' },
+          { text: 'StarShield Website', link: '/case-studies/starshield' },
+          { text: 'Global Brand System', link: '/case-studies/global-brand-system' }
         ]
       },
       {
@@ -64,32 +74,6 @@ nav: [
         ]
       }
     ],
-    {
-  text: 'AI / UX Research',
-  collapsed: false,
-  items: [
-    { text: 'Research Overview', link: '/research/overview' },
-    { text: 'AI Design Research', link: '/research/ai-design-research' },
-    { text: 'Prompt UX', link: '/research/prompt-ux' },
-    { text: 'Agent Workflow', link: '/research/agent-workflow' },
-    { text: 'Competitor Analysis', link: '/research/competitor-analysis' },
-    { text: 'AI Product Patterns', link: '/research/ai-product-patterns' },
-    { text: 'Research Templates', link: '/research/research-templates' }
-  ]
-}
-    {
-  text: 'Skills',
-  collapsed: false,
-  items: [
-    { text: 'Skills Overview', link: '/skills/overview' },
-    { text: 'PalmPay Design System', link: '/skills/palmpay-system-design' } ,
-    { text: 'UX Review', link: '/skills/ux-review' },
-
-    { text: 'Brand Audit', link: '/skills/brand-audit' },
-    { text: 'Campaign Brief', link: '/skills/campaign-brief' },
-    { text: 'AI Product Evaluation', link: '/skills/ai-product-evaluation' }
-  ]
-}
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/clamp444' }
@@ -101,5 +85,3 @@ nav: [
     }
   }
 }
-
-
