@@ -82,11 +82,11 @@ nav: [
   collapsed: false,
   items: [
     { text: 'Skills Overview', link: '/skills/overview' },
+    { text: 'PalmPay Design System', link: '/skills/palmpay-system-design' } ,
     { text: 'UX Review', link: '/skills/ux-review' },
+
     { text: 'Brand Audit', link: '/skills/brand-audit' },
     { text: 'Campaign Brief', link: '/skills/campaign-brief' },
-    { text: 'Design Token Audit', link: '/skills/design-token-audit' },
-    { text: 'Localization Review', link: '/skills/localization-review' },
     { text: 'AI Product Evaluation', link: '/skills/ai-product-evaluation' }
   ]
 }
