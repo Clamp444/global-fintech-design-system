@@ -94,9 +94,6 @@ Every AI design output should include:
 
 ## Related Pages
 
-- [AI Generation Rules](./ai-generation-rules.md)
 - [Prompt Templates](./ai-prompt-templates.md)
-- [Component Inventory](./ai-component-inventory.md)
-- [Figma Mapping](./figma-mapping.md)
-- [Dealer Dashboard Template](./palmpay-dealer-dashboard.md)
-- [Dealer Onboarding Template](./palmpay-dealer-onboarding.md)
+- [UX Principles](../ux-rules/principles.md)
+- [Components Overview](../components/overview.md)

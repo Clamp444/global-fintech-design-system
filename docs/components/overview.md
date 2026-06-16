@@ -91,5 +91,4 @@ AI must select existing components from the inventory before drafting new elemen
 
 See also:
 
-- [Component Inventory](../skills/ai-component-inventory.md)
-- [Figma Mapping](../skills/figma-mapping.md)
+- [PalmPay Design System](../skills/palmpay-system-design.md)

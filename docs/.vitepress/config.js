@@ -54,13 +54,6 @@ export default {
         ]
       },
       {
-        text: 'Case Studies',
-        collapsed: false,
-        items: [
-          { text: 'Global Brand System', link: '/case-studies/global-brand-system' }
-        ]
-      },
-      {
         text: 'Operations',
         collapsed: false,
         items: [

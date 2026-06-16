@@ -69,14 +69,11 @@ Risky actions should not be easy to repeat by accident.
 - Destructive actions require confirmation.
 - Error recovery should preserve user input when possible.
 
-## 7. Use Skill Templates Before Inventing Screens
+## 7. Reuse System Structures Before Inventing Screens
 
-When a screen matches an existing skill template, reuse it.
+When a screen matches an existing system structure, reuse it instead of inventing a new layout.
 
-Current key templates:
-
-- [Dealer Dashboard](../skills/palmpay-dealer-dashboard.md)
-- [Dealer Onboarding](../skills/palmpay-dealer-onboarding.md)
+Document reusable structures in the relevant skill or component page when they become stable.
 
 ## 8. Keep AI Output Auditable
 
