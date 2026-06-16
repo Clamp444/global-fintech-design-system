@@ -48,16 +48,8 @@ export default {
         text: 'Skills Library',
         collapsed: false,
         items: [
-          { text: 'Skills Overview', link: '/skills/overview' },
           { text: 'PalmPay Design System', link: '/skills/palmpay-system-design' },
-          { text: 'AI Generation Rules', link: '/skills/ai-generation-rules' },
           { text: 'Prompt Templates', link: '/skills/ai-prompt-templates' },
-          { text: 'Component Inventory', link: '/skills/ai-component-inventory' },
-          { text: 'Figma Mapping', link: '/skills/figma-mapping' },
-          { text: 'Dealer Dashboard Template', link: '/skills/palmpay-dealer-dashboard' },
-          { text: 'Dealer Onboarding Template', link: '/skills/palmpay-dealer-onboarding' },
-          { text: 'UX Review', link: '/skills/ux-review' },
-          { text: 'Brand Audit', link: '/skills/brand-audit' },
           { text: 'Campaign Brief', link: '/skills/campaign-brief' }
         ]
       },
