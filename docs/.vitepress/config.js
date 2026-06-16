@@ -12,9 +12,8 @@ export default {
       { text: 'Brand', link: '/brand/strategy' },
       { text: 'Tokens', link: '/tokens/design-tokens' },
       { text: 'Components', link: '/components/overview' },
-      { text: 'UX Rules', link: '/ux-rules/principles' },
-      { text: 'Skills', link: '/skills/overview' },
-      { text: 'Case Studies', link: '/case-studies/palmpay' },
+      { text: 'Patterns', link: '/patterns/overview' },
+      { text: 'AI Generation', link: '/ai-generation/rules' },
       { text: 'Governance', link: '/governance/overview' }
     ],
 
@@ -38,6 +37,25 @@ export default {
         ]
       },
       {
+        text: 'Patterns',
+        collapsed: false,
+        items: [
+          { text: 'Patterns Overview', link: '/patterns/overview' },
+          { text: 'Dealer Dashboard', link: '/patterns/dealer-dashboard' },
+          { text: 'Dealer Onboarding', link: '/patterns/dealer-onboarding' }
+        ]
+      },
+      {
+        text: 'AI Generation',
+        collapsed: false,
+        items: [
+          { text: 'Generation Rules', link: '/ai-generation/rules' },
+          { text: 'Prompt Templates', link: '/ai-generation/prompt-templates' },
+          { text: 'Component Inventory', link: '/ai-generation/component-inventory' },
+          { text: 'Figma Mapping', link: '/ai-generation/figma-mapping' }
+        ]
+      },
+      {
         text: 'Experience System',
         collapsed: false,
         items: [
@@ -51,10 +69,10 @@ export default {
         collapsed: false,
         items: [
           { text: 'Skills Overview', link: '/skills/overview' },
+          { text: 'PalmPay Design System', link: '/skills/palmpay-system-design' },
           { text: 'UX Review', link: '/skills/ux-review' },
           { text: 'Brand Audit', link: '/skills/brand-audit' },
-          { text: 'Campaign Brief', link: '/skills/campaign-brief' },
-          { text: 'PalmPay Design System', link: '/skills/palmpay-system-design' }
+          { text: 'Campaign Brief', link: '/skills/campaign-brief' }
         ]
       },
       {
