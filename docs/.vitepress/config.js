@@ -57,8 +57,6 @@ export default {
         text: 'Case Studies',
         collapsed: false,
         items: [
-          { text: 'PalmPay Brand System', link: '/case-studies/palmpay' },
-          { text: 'StarShield Website', link: '/case-studies/starshield' },
           { text: 'Global Brand System', link: '/case-studies/global-brand-system' }
         ]
       },
