@@ -11,8 +11,8 @@ User role: Dealer
 Market: {country or market}
 Core task: Review risk, repayment alerts, workbench actions, and sales data.
 
-Use pattern:
-- Dealer Dashboard Pattern
+Use template:
+- Dealer Dashboard Template
 
 Must include:
 - Header: user name, role, notification action, create action
@@ -48,8 +48,8 @@ User role: {BD / Shop Agent}
 Market: {country or market}
 ID type: {BVN / NIN / CAC / other}
 
-Use pattern:
-- Dealer Onboarding Pattern
+Use template:
+- Dealer Onboarding Template
 
 Design requirements:
 - Use PalmPay design system components first.

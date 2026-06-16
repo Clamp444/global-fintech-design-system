@@ -14,7 +14,7 @@ This page defines how AI should connect documentation to PalmPay Figma assets.
 | Library | Role |
 |---|---|
 | PalmPay Guideline | Brand, foundations, design principles |
-| PalmPay mobile component library | Mobile UI components and reusable patterns |
+| PalmPay mobile component library | Mobile UI components and reusable structures |
 | PalmPay colors | Brand and semantic colors |
 
 ## Mapping Priority
@@ -46,8 +46,8 @@ Every mapped component should eventually include:
 
 | Documentation item | Expected Figma asset | Status |
 |---|---|---|
-| Dealer Dashboard Pattern | Mobile dashboard frames | Needs validation |
-| Dealer Onboarding Pattern | Onboarding flow frames | Needs validation |
+| Dealer Dashboard Template | Mobile dashboard frames | Needs validation |
+| Dealer Onboarding Template | Onboarding flow frames | Needs validation |
 | Metric Card | KPI or data card component | Needs validation |
 | Stepper | Onboarding progress component | Needs validation |
 | Upload Card | File upload component | Needs validation |

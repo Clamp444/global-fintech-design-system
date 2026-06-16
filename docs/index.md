@@ -2,7 +2,7 @@
 
 A scalable design framework for global digital finance products.
 
-This documentation connects brand strategy, product UI, design tokens, reusable patterns, AI generation rules, localization, accessibility, and governance into one system.
+This documentation connects brand strategy, product UI, design tokens, AI-ready skills, localization, accessibility, and governance into one system.
 
 <div class="home-vertical">
 
@@ -38,24 +38,16 @@ This documentation connects brand strategy, product UI, design tokens, reusable 
     </div>
   </a>
 
-  <a class="home-card" href="/global-fintech-design-system/patterns/overview">
+  <a class="home-card" href="/global-fintech-design-system/skills/overview">
     <span class="home-label">05</span>
     <div>
-      <h2>Patterns</h2>
-      <p>Define reusable page and flow structures such as dealer dashboards, onboarding, list pages, and form flows.</p>
-    </div>
-  </a>
-
-  <a class="home-card" href="/global-fintech-design-system/ai-generation/rules">
-    <span class="home-label">06</span>
-    <div>
-      <h2>AI Generation</h2>
-      <p>Turn the design system into executable rules, prompt templates, component inventories, and Figma mappings.</p>
+      <h2>Skills Library</h2>
+      <p>Turn system knowledge into reusable AI workflows for product design, review, generation, and Figma mapping.</p>
     </div>
   </a>
 
   <a class="home-card" href="/global-fintech-design-system/ux-rules/principles">
-    <span class="home-label">07</span>
+    <span class="home-label">06</span>
     <div>
       <h2>UX Rules</h2>
       <p>Define interaction principles for onboarding, payment, KYC, error states, and feedback flows.</p>
@@ -63,7 +55,7 @@ This documentation connects brand strategy, product UI, design tokens, reusable 
   </a>
 
   <a class="home-card" href="/global-fintech-design-system/campaign/campaign-system">
-    <span class="home-label">08</span>
+    <span class="home-label">07</span>
     <div>
       <h2>Campaign System</h2>
       <p>Provide scalable templates for app banners, social cards, landing pages, and motion assets.</p>
@@ -71,7 +63,7 @@ This documentation connects brand strategy, product UI, design tokens, reusable 
   </a>
 
   <a class="home-card" href="/global-fintech-design-system/localization/overview">
-    <span class="home-label">09</span>
+    <span class="home-label">08</span>
     <div>
       <h2>Localization</h2>
       <p>Support multi-market adaptation across language, currency, culture, regulation, and user behavior.</p>
@@ -79,7 +71,7 @@ This documentation connects brand strategy, product UI, design tokens, reusable 
   </a>
 
   <a class="home-card" href="/global-fintech-design-system/accessibility/overview">
-    <span class="home-label">10</span>
+    <span class="home-label">09</span>
     <div>
       <h2>Accessibility</h2>
       <p>Ensure readable, inclusive, and compliant digital financial experiences across devices and markets.</p>
@@ -87,15 +79,15 @@ This documentation connects brand strategy, product UI, design tokens, reusable 
   </a>
 
   <a class="home-card" href="/global-fintech-design-system/governance/overview">
-    <span class="home-label">11</span>
+    <span class="home-label">10</span>
     <div>
       <h2>Governance</h2>
-      <p>Define how design assets, tokens, components, patterns, and documentation are reviewed and maintained.</p>
+      <p>Define how design assets, tokens, components, skills, and documentation are reviewed and maintained.</p>
     </div>
   </a>
 
   <a class="home-card" href="/global-fintech-design-system/research/overview">
-    <span class="home-label">12</span>
+    <span class="home-label">11</span>
     <div>
       <h2>AI / UX Research</h2>
       <p>Collect research on AI product design, prompt UX, agent workflows, competitor analysis, and emerging UX patterns.</p>

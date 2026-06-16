@@ -69,20 +69,20 @@ Risky actions should not be easy to repeat by accident.
 - Destructive actions require confirmation.
 - Error recovery should preserve user input when possible.
 
-## 7. Use Patterns Before Inventing Screens
+## 7. Use Skill Templates Before Inventing Screens
 
-When a screen matches an existing pattern, reuse it.
+When a screen matches an existing skill template, reuse it.
 
-Current key patterns:
+Current key templates:
 
-- [Dealer Dashboard](../patterns/dealer-dashboard.md)
-- [Dealer Onboarding](../patterns/dealer-onboarding.md)
+- [Dealer Dashboard](../skills/palmpay-dealer-dashboard.md)
+- [Dealer Onboarding](../skills/palmpay-dealer-onboarding.md)
 
 ## 8. Keep AI Output Auditable
 
 AI-generated designs must include:
 
-- Pattern used
+- Template used
 - Components used
 - Tokens used
 - States covered

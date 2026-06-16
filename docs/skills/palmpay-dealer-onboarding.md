@@ -1,8 +1,8 @@
-# Dealer Onboarding Pattern
+# Dealer Onboarding Template
 
 ## Purpose
 
-This pattern defines PalmPay dealer onboarding and application flows. It covers two entry paths:
+This template defines PalmPay dealer onboarding and application flows. It covers two entry paths:
 
 - BD adds a dealer
 - Shop Agent self-onboards

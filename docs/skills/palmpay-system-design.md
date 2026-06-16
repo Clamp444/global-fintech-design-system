@@ -1,12 +1,12 @@
 # PalmPay Design System Skill
 
-This skill defines how AI should work with PalmPay brand, product UI, design tokens, components, patterns, and Figma assets.
+This skill defines how AI should work with PalmPay brand, product UI, design tokens, components, reusable templates, and Figma assets.
 
 Use this skill when the task is to:
 
 - Generate a PalmPay product screen or flow
 - Review whether a PalmPay design follows the system
-- Convert screenshots into reusable components or patterns
+- Convert screenshots into reusable components or skill templates
 - Map documentation rules to Figma components
 - Identify component gaps for the PalmPay design system
 
@@ -33,7 +33,7 @@ Use the lowest reusable layer that can solve the task:
 |---|---|
 | Token | The task is about color, type, spacing, radius, shadow, or motion |
 | Component | The task is about a reusable UI element |
-| Pattern | The task is about a page layout or multi-step flow |
+| Skill template | The task is about a page layout or multi-step flow |
 | UX Rule | The task is about behavior, validation, state, or feedback |
 | Case Study | The task needs full product context |
 
@@ -43,7 +43,7 @@ Priority order:
 
 1. Existing PalmPay Figma component or variable
 2. Existing documentation component
-3. Existing pattern
+3. Existing skill template
 4. Existing UX rule
 5. New proposal marked as `component-gap`
 
@@ -73,7 +73,7 @@ For onboarding and KYC flows, also include:
 
 Every AI design output should include:
 
-- Pattern used
+- Template used
 - Component list
 - Token list
 - State list
@@ -94,9 +94,9 @@ Every AI design output should include:
 
 ## Related Pages
 
-- [AI Generation Rules](../ai-generation/rules.md)
-- [Prompt Templates](../ai-generation/prompt-templates.md)
-- [Component Inventory](../ai-generation/component-inventory.md)
-- [Figma Mapping](../ai-generation/figma-mapping.md)
-- [Dealer Dashboard Pattern](../patterns/dealer-dashboard.md)
-- [Dealer Onboarding Pattern](../patterns/dealer-onboarding.md)
+- [AI Generation Rules](./ai-generation-rules.md)
+- [Prompt Templates](./ai-prompt-templates.md)
+- [Component Inventory](./ai-component-inventory.md)
+- [Figma Mapping](./figma-mapping.md)
+- [Dealer Dashboard Template](./palmpay-dealer-dashboard.md)
+- [Dealer Onboarding Template](./palmpay-dealer-onboarding.md)

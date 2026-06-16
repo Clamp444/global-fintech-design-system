@@ -1,8 +1,8 @@
-# Dealer Dashboard Pattern
+# Dealer Dashboard Template
 
 ## Purpose
 
-The Dealer Dashboard gives a dealer a quick view of risk, repayment alerts, frequent work actions, and sales data. AI-generated dealer home screens should reuse this structure instead of inventing a new dashboard layout.
+The Dealer Dashboard template gives a dealer a quick view of risk, repayment alerts, frequent work actions, and sales data. AI-generated dealer home screens should reuse this structure instead of inventing a new dashboard layout.
 
 ## Required Structure
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-These rules make the design system executable by AI. They define how AI should generate editable Figma drafts using PalmPay tokens, components, patterns, and UX rules.
+These rules make the design system executable by AI. They define how AI should generate editable Figma drafts using PalmPay tokens, components, skill templates, and UX rules.
 
 ## Core Principles
 
@@ -19,7 +19,7 @@ AI must use sources in this order:
 
 1. PalmPay Figma components and variables
 2. Local documented components
-3. Documented patterns
+3. Documented skill templates
 4. UX rules
 5. New component proposal marked as `component-gap`
 
@@ -29,7 +29,7 @@ Every AI-generated design task must output:
 
 - Component list
 - Token list
-- Pattern used
+- Template used
 - Page or flow states
 - Localization risks
 - Accessibility risks
@@ -53,7 +53,7 @@ Before generating, AI must identify:
 
 ### Buttons
 
-- One screen should have only one primary action unless a pattern defines otherwise.
+- One screen should have only one primary action unless a skill template defines otherwise.
 - Destructive actions use danger styling.
 - Button labels must start with action verbs.
 - Long localized labels must wrap or resize safely.

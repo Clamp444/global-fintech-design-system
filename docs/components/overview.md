@@ -91,5 +91,5 @@ AI must select existing components from the inventory before drafting new elemen
 
 See also:
 
-- [Component Inventory](../ai-generation/component-inventory.md)
-- [Figma Mapping](../ai-generation/figma-mapping.md)
+- [Component Inventory](../skills/ai-component-inventory.md)
+- [Figma Mapping](../skills/figma-mapping.md)
